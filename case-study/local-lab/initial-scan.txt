@@ -1,0 +1,10 @@
+[+] URL: http://192.168.56.1/mysite/ [192.168.56.1]
+[+] Started: Mon Apr 13 08:15:53 2026
+
+[+] XML-RPC enabled
+[+] Readme file exposed
+[+] Directory listing enabled
+[+] WP-Cron accessible
+[+] Server information disclosure
+[+] Plugin: Akismet (possible vulnerability)
+[+] User detected: admin
