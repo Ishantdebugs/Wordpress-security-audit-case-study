@@ -57,6 +57,11 @@ To identify, analyze, remediate, and validate common WordPress vulnerabilities i
 
 ---
 
+## Case Study Access
+
+Full audit report:
+- case-study/local-lab/report.pdf
+
 ## Note
 
 This project is part of a practical cybersecurity learning journey focused on WordPress security auditing and remediation.
